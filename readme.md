@@ -8,5 +8,5 @@
 
  # SCENES
 
- -[] Queremos criar pontes na história da produção do nosso projeto
+ -[x] Queremos criar pontos na história da produção do nosso projeto
  -[] Queremos verificar mudanças feitas no nosso projeto
