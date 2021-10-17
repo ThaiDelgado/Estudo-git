@@ -20,16 +20,16 @@ https://git-scm.com/download
 
 - [x] Você começa uma nova funcionalidade no seu projeto, sem estragar o que já foi feito.
 
-Cria-se uma branch 'git branch <branch>'
+- Cria-se uma branch 'git branch <branch>'
 
 - [x] Você adiciona as novas funcionalidades ao seu projeto em produção.
 
-Mesclando as branchs 'git merge <branch>
+- Mesclando as branchs 'git merge <branch>
 
--[x] Você quer deletar a branch da nova funcionalidade, deppois de aplicar em seu projeto.
+- [x] Você quer deletar a branch da nova funcionalidade, deppois de aplicar em seu projeto.
         
-Concluiu: git branch -D <branch>
+- Concluiu: git branch -D <branch>
 
--[x] Você quer colocar o seu projeto na nuvem.
+- [x] Você quer colocar o seu projeto na nuvem.
 
-GitHub
+- GitHub
